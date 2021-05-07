@@ -23,7 +23,7 @@
   width: 500px;
   height: 500px;
   border-radius: 2000px;
-  background: -webkit-linear-gradient(330deg,rgba(255,74,158,0) 45%,rgba(255, 74, 158, 0.4) 100%);
+  background: $color-cream;
   right: 1px;
   top: -57px;
 }
@@ -36,7 +36,7 @@
   width: 500px;
   height: 500px;
   border-radius: 2000px;
-  background: -webkit-linear-gradient(330deg,rgba(255,74,158,0) 45%,rgba(255,74,158,.4) 100%);
+  background: $color-cream;
   left: 4px;
   top: 500px;
 }
